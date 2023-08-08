@@ -28,7 +28,7 @@ Assuming you are in a Node.js environment and have the `this.text.js` in your pr
 ```js
 javascriptCopy code
 // Import the ThisText class from the module
-const ThisText = require('./this.text.js');
+const ThisText = require('this.text.js');
 // Instantiate the class with some text content
 const textInstance = new ThisText("   Hello World!  This is a sample TEXT.  ");
 // Call the standardize method to standardize the text
