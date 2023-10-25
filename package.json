@@ -4,7 +4,8 @@
   "description": "this text",
   "main": "text.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "index.js"
   },
   "repository": {
     "type": "git",
