@@ -15,10 +15,11 @@
     "ok",
     "computer"
   ],
-  "author": "suiGn",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/suiGn/this.text/issues"
   },
-  "homepage": "https://github.com/suiGn/this.text#readme"
+  "homepage": "https://github.com/suiGn/this.text#readme",
+  "author": "suiGn",
+  "license": "MIT",
+  "repoType": "NPM Package"
 }
