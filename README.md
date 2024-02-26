@@ -40,14 +40,6 @@ When you run the code using the example provided, the standardized text, which i
 Remember, the `standardize()` method in our example is rather simplistic. Depending on your project's specific requirements, you may want to incorporate more sophisticated text processing techniques.
 
 -----------------
-### Conceptual Flow:
-
-- [ ] Set up your context with [this.me.](https://www.npmjs.com/package/this.me)
-- [ ] Create a neural network using [neurons.me](https://www.neurons.me).
-- [ ] Define the data you'd like your neural network to recognize or process with [this.](https://www.neurons.me/this) modules.
-- [ ] Use [this.be](https://www.npmjs.com/package/this.be) to maintain a state or context, - watching over the [PixelGrid](https://www.npmjs.com/package/this.pixel) and any other states you define for example.
-- [ ] Define desired status and handlers, [be.this](https://www.npmjs.com/package/be.this).
-- [ ] Keep [i.mlearning](https://www.npmjs.com/package/i.mlearning).
 
 # Context of Abstraction for Machine Learning Standardization
   Traditional web development elements, from images to audio, are designed mainly for display and interaction. But what if they could be seamlessly converted into standardized formats primed for machine learning? That's the vision behind the **this.** modules.
@@ -67,40 +59,6 @@ Remember, the `standardize()` method in our example is rather simplistic. Depend
   [neurons.me](https://www.neurons.me)
   [neurons.me/this](https://www.neurons.me/this)
 
-  # Clone THIS DEMO Playground
-Welcome to the THIS.ME Playground, where the entire THIS.ME suite comes together with NEURONS.ME to provide a rich development and execution environment for your AI adventures.
-
-## Sandbox Demo Quick Start
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/suiGn/.me.git
-```
-### 2. Navigate to the Project Directory
-```bash
-cd .me
-```
-### 3. Install Dependencies
-You can use either Yarn or npm to install the necessary dependencies.
-Using Yarn:
-```bash
-yarn install 
-```
-Using npm:
-```bash
-npm install
-```
-### 4. Launch the Application
-```
-npx electron index.js
-```
-### License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-This README provides an overview of the project, instructions for installation and usage, and highlights future projections. Feel free to modify or expand it as needed. Congratulations on building this exciting tool, and good luck with its continued development!
-
-### Privacy Policy
-Our open-source project is designed with respect to user privacy. Given its nature, we neither collect nor store personal data of our users. Users might provide data or personal information through the project's usage, but we do not have access to or control over this information. For more details, please refer to our full Privacy Policy.
 ### Terms of Usage
 This package is provided "as-is" without any guarantees or warranties of any kind. Users are responsible for their use of the project and any consequences thereof. We do not guarantee continuous functionality, accuracy, or security of the project and are not liable for any damages or losses users might incur. Users are encouraged to review our complete Terms of Usage before implementing or contributing to the project.
 https://www.neurons.me/terms-of-use
