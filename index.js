@@ -1,1 +1,1 @@
-console.log("Indexing this.text;");
+console.log("this.text loaded;");

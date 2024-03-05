@@ -1,11 +1,11 @@
 {
   "name": "this.text",
-  "version": "1.0.8",
+  "version": "1.0.81",
   "description": "this text",
   "main": "text.js",
   "scripts": {
     "test": "test",
-    "start": "index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "ok",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://www.npmjs.com/package/this.text",
   "docs": "https://suiGn.github.io/this.text",
+  "type":"module",
   "author": "suiGn",
   "license": "MIT",
   "repoType": "NPM Package",

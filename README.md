@@ -58,6 +58,7 @@ Neural Network Creation: Utilize neurons.me to design and implement a neural net
 Data Definition: With the all.this suite of modules, specify and format the data types that your neural network will analyze and learn from, ensuring they are machine learning-ready.
 State Management: Employ this.be to oversee and manage the application state, including monitoring elements like PixelGrid and other defined contexts, ensuring dynamic and responsive state changes.
 Status Definition and Management: Leverage be.this to establish and enforce desired states or behaviors within your application, acting based on predefined conditions or triggers.
+
 Continuous Learning: Maintain an adaptive and evolving learning process with i.mlearning, ensuring that your application or system grows smarter and more efficient over time.
 ---------
 
@@ -71,3 +72,31 @@ Continuous Learning: Maintain an adaptive and evolving learning process with i.m
 This package is provided "as-is" without any guarantees or warranties of any kind. Users are responsible for their use of the project and any consequences thereof. We do not guarantee continuous functionality, accuracy, or security of the project and are not liable for any damages or losses users might incur. Users are encouraged to review our complete Terms of Usage before implementing or contributing to the project.
 https://www.neurons.me/terms-of-use
 https://www.neurons.me/privacy-policy
+
+
+
+# About All.This
+
+## Modular Data Structures:
+
+**[this.me](https://suign.github.io/this.me)  - [this.audio](https://suign.github.io/this.audio) - [this.text](https://suign.github.io/this.text) - [this.wallet](https://suign.github.io/this.wallet) - [this.img](https://suign.github.io/this.img) - [this.pixel](https://suign.github.io/Pixels) - [be.this](https://suign.github.io/be.this) - [this.DOM](https://suign.github.io/this.DOM) - [this.env](https://suign.github.io/this.env/) - [this.GUI](https://suign.github.io/this.GUI) - [this.be](https://suign.github.io/this.be) - [this.video](https://suign.github.io/this.video) - [this.atom](https://suign.github.io/this.atom) - [this.dictionaries](https://suign.github.io/this.dictionaries/)**
+
+**Each module** in **[all.this](https://neurons.me/all-this)** represents a specific **datastructure**. These classes encapsulate the functionalities and **data specific to their domain.**
+
+## **Utils**
+
+**[all.this](https://neurons.me/all-this)** not only aggregates these modules but also provides utilities to facilitate the integration, management, and enhancement of these data structures. **For example:**
+
+*The integration with [cleaker](https://suign.github.io/cleaker/) ensures each module instance has a **unique cryptographic identity**, enhancing security and data integrity.*
+
+### Neurons.me Ecosystem Glossary:
+
+visit: [Neurons.me Glossary](https://suign.github.io/neurons.me/Glossary) 
+
+Learn more at https://neurons.me
+
+**Author:** SuiGn
+
+[By neurons.me](https://neurons.me)
+
+<img src="https://suign.github.io/neurons.me/neurons_logo.png" alt="neurons.me logo" width="123" height="123" style="width123px; height:123px;">
