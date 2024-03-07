@@ -1,14 +1,14 @@
 <img src="./_._.svg" alt="SVG Image" width="123" height="123" style="width123px; height:123px;">
 
-# this.text
-```bash
-npm i this.text
-```
+# THIS.TEXT
 
-#### Under Development.
+-----------
 
-**Introduction to `this.text` in the context of Standardized Data Structuring**
-**`this.text`**: While text is one of the most consumed web elements, its structure and format often vary. `this.text` seeks to standardize text content, ensuring consistency in how textual data is presented and subsequently consumed by machine learning models.
+### [Project Status : Experimental and Under Development, Subject to Major Changes]
+
+The module is in active development, and as such, it is subject to significant changes as we refine our approach and methodologies to best support our goals.
+
+visit: https://neurons.me to learn more.
 
 ---------
 
@@ -65,15 +65,8 @@ Continuous Learning: Maintain an adaptive and evolving learning process with i.m
 - ### **Open and Collaborative:** 
   The this. library champions open standards. By leveraging public web standards, it invites collaboration, hoping to create a community that continually refines and enhances the bridge between web development and machine learning.
 
-  [neurons.me](https://www.neurons.me)
-  [neurons.me/this](https://www.neurons.me/this)
 
-### Terms of Usage
-This package is provided "as-is" without any guarantees or warranties of any kind. Users are responsible for their use of the project and any consequences thereof. We do not guarantee continuous functionality, accuracy, or security of the project and are not liable for any damages or losses users might incur. Users are encouraged to review our complete Terms of Usage before implementing or contributing to the project.
-https://www.neurons.me/terms-of-use
-https://www.neurons.me/privacy-policy
-
-
+----------
 
 # About All.This
 
@@ -93,10 +86,18 @@ https://www.neurons.me/privacy-policy
 
 visit: [Neurons.me Glossary](https://suign.github.io/neurons.me/Glossary) 
 
-Learn more at https://neurons.me
+## License & Policies
 
-**Author:** SuiGn
+- **License**: MIT License (see LICENSE for details).
 
-[By neurons.me](https://neurons.me)
+- **Privacy Policy**: Respects user privacy; no collection/storage of personal data.
 
-<img src="https://suign.github.io/neurons.me/neurons_logo.png" alt="neurons.me logo" width="123" height="123" style="width123px; height:123px;">
+- **Terms of Usage**: Use responsibly. No guarantees/warranties provided. [Terms](https://www.neurons.me/terms-of-use) | [Privacy](https://www.neurons.me/privacy-policy)
+
+  **Learn more** at https://neurons.me
+
+  **Author:** SuiGn
+
+  [By neurons.me](https://neurons.me)
+
+  <img src="https://suign.github.io/neurons.me/neurons_logo.png" alt="neurons.me logo" width="123" height="123" style="width123px; height:123px;">
